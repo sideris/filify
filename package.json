@@ -1,0 +1,9 @@
+{
+  "name": "filify",
+  "version": "1.0.0",
+  "description": "Accepts a js file and creates more js files. Cool for running tutorials Edit",
+  "main": "index.js",
+  "repository": "git@github.com:sideris/filify.git",
+  "author": "Petros G. Sideris <pgsideris@gmail.com>",
+  "license": "MIT"
+}
