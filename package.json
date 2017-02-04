@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "description": "Accepts a js file and creates more js files. Cool for running tutorials Edit",
   "main": "index.js",
+  "bin": {
+    "filify": "index.js"
+  },
   "repository": "git@github.com:sideris/filify.git",
   "author": "Petros G. Sideris <pgsideris@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fs-extra": "^2.0.0"
+  }
 }
