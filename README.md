@@ -1,12 +1,12 @@
 # filify
 
-###What
+### What
 Filify accepts a js file and creates more js files as denoted in comments. Cool for running tutorials
 
 ### How
-To install either `yarn add global filify` or `npm install -g filify`
+To install, either run `yarn add global filify` or `npm install -g filify`
 
-Your file should separate each "file" by adding a new comment line with the js filename
+Your code should separate each "file" by adding a new comment line with the js filename
 
 e.g.
 
